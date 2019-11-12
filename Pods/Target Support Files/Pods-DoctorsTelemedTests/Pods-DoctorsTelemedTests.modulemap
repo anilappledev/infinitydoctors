@@ -1,0 +1,6 @@
+framework module Pods_DoctorsTelemedTests {
+  umbrella header "Pods-DoctorsTelemedTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

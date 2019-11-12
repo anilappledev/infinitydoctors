@@ -1,0 +1,34 @@
+PODS:
+  - Charts (3.3.0):
+    - Charts/Core (= 3.3.0)
+  - Charts/Core (3.3.0)
+  - Cosmos (19.0.3)
+  - DropDown (2.3.13)
+  - IQKeyboardManagerSwift (6.5.0)
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - Charts
+  - Cosmos (~> 19.0)
+  - DropDown
+  - IQKeyboardManagerSwift
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - Cosmos
+    - DropDown
+    - IQKeyboardManagerSwift
+    - UPCarouselFlowLayout
+
+SPEC CHECKSUMS:
+  Charts: e0dd4cd8f257bccf98407b58183ddca8e8d5b578
+  Cosmos: a6fb17284281fa12cf4c85c2efecd440a215ec44
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IQKeyboardManagerSwift: 6cd19976c6e871907c4ed9127c2d3affdd4defc2
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: cdee815ae2000ff4311c703b6aa017892e3889a2
+
+COCOAPODS: 1.7.0.rc.1
